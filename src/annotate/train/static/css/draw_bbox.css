@@ -1,0 +1,60 @@
+.left {
+  float: left;
+  padding-left: 1em;
+  clear: none;
+}
+
+#annotate-me {
+  border: 1px solid black;
+}
+
+.right {
+  float: right;
+  padding-right: 1em;
+  padding-top: 0.5em;
+  clear: none;
+  font-size: 16pt;
+  width: 50%;
+}
+
+.progress {
+  font-style: italic;
+}
+
+.instructions {
+  font-weight: bold;
+}
+
+.right li {
+  padding-bottom: 0.5em;
+}
+
+.submit-button-container {
+  clear: both;
+  float: right;
+}
+
+.delete,
+.done {
+  margin-left: 1em;
+  font-size: 16pt;
+  display: inline-block;
+}
+
+.all-cloud-container {
+  border: 1px solid black;
+  width: 6em;
+  padding: 4px;
+  float: right;
+  text-align: right;
+  margin-bottom: 1em;
+}
+
+.all-cloud {
+  position: relative;
+  top: -2px;
+}
+
+.image-container {
+  position: relative;
+}
